@@ -12,5 +12,6 @@ func main() {
 		}
 	}
 
-	fmt.Println(total / count)
+	fmt.Println(float64(total) / float64(count))
 }
+git commit
