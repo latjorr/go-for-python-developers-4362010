@@ -21,11 +21,10 @@
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
-
   "python.testing.pytestArgs": [
-      "."
-    ],
+    "."
+  ],
   "python.testing.unittestEnabled": false,
-  "python.testing.pytestEnabled": true
-
+  "python.testing.pytestEnabled": true,
+  "terminal.integrated.sendKeybindingsToShell": true
 }
